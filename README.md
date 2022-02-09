@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @joascripts
+- 👀 I’m interested in video games!
+- 🌱 I’m currently learning how to make scripts
